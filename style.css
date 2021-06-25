@@ -49,6 +49,9 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+.dream-bg {
+    background-color:lavender;
+}
 .single-experience {
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
